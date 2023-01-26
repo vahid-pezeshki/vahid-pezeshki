@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vahid!</h1>
-<h3 align="center">A passionate Full-Stack Developer and AI Engineer from Iran</h3>
+<h3 align="center">A passionate Web Developer and AI Student from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahid-pezeshki&label=Profile%20views&color=0e75b6&style=flat" alt="vahid-pezeshki" /> </p>
 
-- 🔭 I’m currently working on [my personal website](vahidpezeshki.ir)
-
-- 🌱 I’m currently learning **.net core, typescript, react, computer vision.**
+- 🌱 I’m currently learning **.net core, typescript, react and computer vision.**
 
 - 👨‍💻 All of my projects are available at [https://test-link-for-projects.net](https://test-link-for-projects.net)
 
@@ -13,12 +11,14 @@
 
 - 📫 How to reach me **vahid-pezeshki@outlook.com**
 
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vahid-pezeshki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vahid-pezeshki/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14175424/vahid-pezeshki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14175424/vahid-pezeshki" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vahid-pezeshki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vahid-pezeshki/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14175424/vahid-pezeshki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14175424/vahid-pezeshki" height="30" width="40" /></a>
 <a href="https://medium.com/@vahid-pezeshki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vahid-pezeshki" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@vahid_pezeshki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@vahid_pezeshki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@vahid_pezeshki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/@vahid_pezeshki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
