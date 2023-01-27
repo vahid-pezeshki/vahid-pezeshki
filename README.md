@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Vahid!</h1>
-<h3 align="center">A passionate Web Developer and AI Student from Iran</h3>
+<h1 align="center">Hi 👋, I'm Vahid</h1>
+<h3 align="center">A passionate Junior Developer and AI Student from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahid-pezeshki&label=Profile%20views&color=0e75b6&style=flat" alt="vahid-pezeshki" /> </p>
 
-- 🌱 I’m currently learning **.net core, typescript, react and computer vision.**
+- 🌱 I’m currently learning **ASP.NET, React with TypeScript and Computer Vision.**
 
-- 👨‍💻 All of my projects are available at [https://test-link-for-projects.net](https://test-link-for-projects.net)
+- 👨‍💻 Projects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
 
-- 💬 Ask me about **reactjs, python and artificial intelligence.**
+- 💬 Ask me about **Reactjs, Python and Artificial Intelligence.**
 
 - 📫 How to reach me **vahid-pezeshki@outlook.com**
 
