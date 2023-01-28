@@ -5,13 +5,12 @@
 
 - 🌱 I’m currently learning **ASP.NET, React with TypeScript and Computer Vision.**
 
-- 👨‍💻 Projects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
+- 👨‍💻 rojects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
 
-- 💬 Ask me about **Reactjs, Python and Artificial Intelligence.**
+- 💬 Ask me about **ReactJS, Python and Artificial Intelligence.**
 
 - 📫 How to reach me **vahid-pezeshki@outlook.com**
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
