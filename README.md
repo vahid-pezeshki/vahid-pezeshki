@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ASP.NET, React with TypeScript and Computer Vision.**
 
-- 👨‍💻 rojects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
+- 👨‍💻 Projects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
 
 - 💬 Ask me about **ReactJS, Python and Artificial Intelligence.**
 
