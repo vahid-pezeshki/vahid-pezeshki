@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahid-pezeshki&label=Profile%20views&color=0e75b6&style=flat" alt="vahid-pezeshki" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET, React with TypeScript and Computer Vision.**
+- 🌱 I’m currently learning **ASP.NET, TypeScript and Computer Vision.**
 
 - 👨‍💻 Projects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
 
