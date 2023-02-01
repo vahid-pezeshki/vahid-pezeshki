@@ -3,16 +3,17 @@
 </div>
 <h3 align="center">A passionate Junior Developer and AI Student from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vahid-pezeshki&label=Profile%20views&color=0e75b6&style=flat" alt="vahid-pezeshki" /> </p>
+<br>
 
-- 🌱 I’m currently learning **ASP.NET, TypeScript and Computer Vision.**
+- 🌱 I’m currently learning **ASP.NET Core, React with TypeScript and Computer Vision.**
 
-- 👨‍💻 Projects are available at [https://my-project-test-link.net](https://test-link-for-projects.net)
+- 👨‍💻 My Projects are available at [https://test-link-for-projects.net](https://test-link-for-projects.net)
 
-- 💬 Ask me about **ReactJS, Python and Artificial Intelligence.**
+- 💬 Ask me about **Python and Artificial Intelligence.**
 
 - 📫 How to reach me **vahid-pezeshki@outlook.com**
 
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
