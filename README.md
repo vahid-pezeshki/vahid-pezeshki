@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vahid</h1>
+<div align="center">
+    <img src="./greeting.svg" alt="Hi 👋, I'm Vahid">
+</div>
 <h3 align="center">A passionate Junior Developer and AI Student from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vahid-pezeshki&label=Profile%20views&color=0e75b6&style=flat" alt="vahid-pezeshki" /> </p>
