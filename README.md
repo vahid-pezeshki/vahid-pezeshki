@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **ASP.NET Core, React with TypeScript and Computer Vision.**
+- 🌱 I’m currently learning **.NET Core, React with TypeScript and Computer Vision.**
 
 - 👨‍💻 My Projects are available at [https://test-link-for-projects.net](https://test-link-for-projects.net)
 
