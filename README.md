@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./greeting.svg" alt="Hi 👋, I'm Vahid">
+    <h3 align="center">A passionate Fullstack Developer and AI Student</h3>
 </div>
-<h3 align="center">A passionate Fullstack Developer and AI Student</h3>
 
 <br>
 
