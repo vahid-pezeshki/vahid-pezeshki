@@ -1,9 +1,11 @@
 <div align="center">
     <img src="./greeting.svg" alt="Hi 👋, I'm Vahid">
-    <h3 align="center">A passionate Fullstack Developer and AI Student</h3>
+    <h3 align="center">A passionate Fullstack Developer and AI Student from Iran</h3>
 </div>
 
-<br>
+## About
+*I'm an artificial intelligence student in Tabriz. i like to code, and i love to learn new skills and new technologies.*
+<br><br>
 
 - 🌱 I’m currently learning **.NET Core, React with TypeScript and Data Science.**
 
