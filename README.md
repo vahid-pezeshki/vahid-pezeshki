@@ -1,6 +1,6 @@
 <div align="center">
     <img src="./greeting.svg" alt="Hi 👋, I'm Vahid">
-    <h3 align="center">A passionate Fullstack Developer and AI Student from Iran</h3>
+    <h3 align="center">A passionate Developer and AI Student from Iran</h3>
 </div>
 
 ## About
