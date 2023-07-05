@@ -3,7 +3,7 @@
     <h3 align="center">A passionate Developer and AI Student from Iran</h3>
 </div>
 
-## About
+## About Me
 *I'm an artificial intelligence student in Tabriz. i like to code, and i love to learn new skills and new technologies.*
 <br><br>
 
