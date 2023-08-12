@@ -4,7 +4,7 @@
 </div>
 
 ## About Me
-*My name is Vahid, i'm an artificial intelligence student in Tabriz. i like to code, and i love to learn new skills and new technologies...*
+*My name is Vahid, I'm an artificial intelligence student in Tabriz. i like to code, and i love to learn new skills and new technologies.*
 <br><br>
 
 - 🌱 I’m currently learning **.NET Core, React/TypeScript and Data Science.**
