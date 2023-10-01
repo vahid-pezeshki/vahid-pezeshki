@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET Core, React/TypeScript, and Machine Learning.**
 
-- 💬 Ask me about **Programming and Technologies!**
+- 💬 Ask me about **Programming and Technologies**
 
 - 📫 How to reach me **vahid-pezeshki@outlook.com**
 
