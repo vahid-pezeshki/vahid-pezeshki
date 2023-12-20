@@ -7,7 +7,7 @@
 *I'm Vahid, an artificial intelligence student based in Tabriz. I have a strong passion for coding and a keen interest in learning new skills and technologies. My goal is to explore the ever-evolving world of AI and contribute to the tech community.*
 <br><br>
 
-- 🌱 I’m currently learning **.NET Core, React/TypeScript, and Machine Learning**
+- 🌱 I’m currently learning **.NET Core, React/TypeScript, and Deep Learning**
 
 - 💬 Ask me about **Programming and Technologies**
 
